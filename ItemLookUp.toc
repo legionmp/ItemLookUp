@@ -1,0 +1,7 @@
+## Interface: 11302
+## X-Curse-Project-ID: 342090
+## Title: ItemLookUp
+## Author: Dio, Dio#0479
+## Version: 1.0
+
+main.lua
